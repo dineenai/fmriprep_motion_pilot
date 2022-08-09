@@ -1,0 +1,5 @@
+For a single subject (here 001):
+
+/home/ainedineen/.local/bin/fmriprep-docker -w /home/ainedineen/motion-robust-mri/fmriprep/workingdir --output-spaces MNI152NLin2009cAsym:res-2 --fs-license-file ~/motion-robust-mri/fmriprep/deriv/license.txt ~/motion-robust-mri/fmriprep/bids/ ~/motion-robust-mri/fmriprep/deriv --participant_label 001
+
+

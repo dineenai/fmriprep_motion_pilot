@@ -1,0 +1,111 @@
+Unable to find image 'nipreps/fmriprep:21.0.2' locally
+21.0.2: Pulling from nipreps/fmriprep
+345e3491a907: Pulling fs layer
+57671312ef6f: Pulling fs layer
+5e9250ddb7d0: Pulling fs layer
+f6495e0624c3: Pulling fs layer
+1ad23f967db4: Pulling fs layer
+227535442f29: Pulling fs layer
+95a564a3c4d2: Pulling fs layer
+3fa9aee2f51b: Pulling fs layer
+7918bcc3dce7: Pulling fs layer
+1d42d5b35c35: Pulling fs layer
+2e56ab619ab8: Pulling fs layer
+bff0d1e9b822: Pulling fs layer
+2bbc6d1f9dcd: Pulling fs layer
+3f7e9540dd90: Pulling fs layer
+f6495e0624c3: Waiting
+93cc014c8c74: Pulling fs layer
+9f337de9d7b3: Pulling fs layer
+90718fc05d1d: Pulling fs layer
+227535442f29: Waiting
+1ad23f967db4: Waiting
+7918bcc3dce7: Waiting
+78749c2d9c22: Pulling fs layer
+95a564a3c4d2: Waiting
+5bc9fe56fc26: Pulling fs layer
+93cc014c8c74: Waiting
+71471957580e: Pulling fs layer
+bff0d1e9b822: Waiting
+9f337de9d7b3: Waiting
+2e56ab619ab8: Waiting
+c2e20950f896: Pulling fs layer
+78749c2d9c22: Waiting
+770bc490c0b6: Pulling fs layer
+90a7eaf0407c: Pulling fs layer
+2bbc6d1f9dcd: Waiting
+71471957580e: Waiting
+770bc490c0b6: Waiting
+90a7eaf0407c: Waiting
+90718fc05d1d: Waiting
+3f7e9540dd90: Waiting
+57671312ef6f: Verifying Checksum
+57671312ef6f: Download complete
+5e9250ddb7d0: Verifying Checksum
+5e9250ddb7d0: Download complete
+345e3491a907: Verifying Checksum
+345e3491a907: Download complete
+345e3491a907: Pull complete
+57671312ef6f: Pull complete
+5e9250ddb7d0: Pull complete
+f6495e0624c3: Verifying Checksum
+f6495e0624c3: Download complete
+95a564a3c4d2: Verifying Checksum
+95a564a3c4d2: Download complete
+3fa9aee2f51b: Verifying Checksum
+3fa9aee2f51b: Download complete
+7918bcc3dce7: Verifying Checksum
+7918bcc3dce7: Download complete
+f6495e0624c3: Pull complete
+227535442f29: Verifying Checksum
+227535442f29: Download complete
+2e56ab619ab8: Download complete
+bff0d1e9b822: Verifying Checksum
+bff0d1e9b822: Download complete
+2bbc6d1f9dcd: Verifying Checksum
+2bbc6d1f9dcd: Download complete
+1d42d5b35c35: Verifying Checksum
+1d42d5b35c35: Download complete
+93cc014c8c74: Verifying Checksum
+93cc014c8c74: Download complete
+9f337de9d7b3: Verifying Checksum
+9f337de9d7b3: Download complete
+90718fc05d1d: Download complete
+78749c2d9c22: Verifying Checksum
+78749c2d9c22: Download complete
+5bc9fe56fc26: Verifying Checksum
+5bc9fe56fc26: Download complete
+71471957580e: Verifying Checksum
+71471957580e: Download complete
+c2e20950f896: Verifying Checksum
+c2e20950f896: Download complete
+770bc490c0b6: Verifying Checksum
+770bc490c0b6: Download complete
+90a7eaf0407c: Verifying Checksum
+90a7eaf0407c: Download complete
+3f7e9540dd90: Verifying Checksum
+3f7e9540dd90: Download complete
+1ad23f967db4: Verifying Checksum
+1ad23f967db4: Download complete
+1ad23f967db4: Pull complete
+227535442f29: Pull complete
+95a564a3c4d2: Pull complete
+3fa9aee2f51b: Pull complete
+7918bcc3dce7: Pull complete
+1d42d5b35c35: Pull complete
+2e56ab619ab8: Pull complete
+bff0d1e9b822: Pull complete
+2bbc6d1f9dcd: Pull complete
+3f7e9540dd90: Pull complete
+93cc014c8c74: Pull complete
+9f337de9d7b3: Pull complete
+90718fc05d1d: Pull complete
+78749c2d9c22: Pull complete
+5bc9fe56fc26: Pull complete
+71471957580e: Pull complete
+c2e20950f896: Pull complete
+770bc490c0b6: Pull complete
+90a7eaf0407c: Pull complete
+Digest: sha256:7b2a5a5d2a1623e01ebf78b27918a659206642819bb0297f2acf363c3809aac5
+Status: Downloaded newer image for nipreps/fmriprep:21.0.2
+the input device is not a TTY

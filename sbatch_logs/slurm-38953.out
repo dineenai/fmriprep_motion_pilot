@@ -1,0 +1,3 @@
+Downloading. This may take a while...
+RUNNING: docker run --rm -e DOCKER_VERSION_8395080871=20.10.9 -it -v /home/ainedineen/motion-robust-mri/fmriprep/deriv/license.txt:/opt/freesurfer/license.txt:ro -v /home/ainedineen/motion-robust-mri/fmriprep/bids:/data:ro -v /home/ainedineen/motion-robust-mri/fmriprep/deriv:/out -v /home/ainedineen/motion-robust-mri/fmriprep/workingdir:/scratch nipreps/fmriprep:21.0.2 /data /out participant --participant_label 001 -w /scratch --output-spaces MNI152NLin2009cAsym:res-2
+fMRIPrep: Please report errors to https://github.com/nipreps/fmriprep/issues
